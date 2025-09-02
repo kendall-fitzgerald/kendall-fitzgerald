@@ -1,7 +1,7 @@
 # Hi there, my name is Kendall Fitzgerald 
 
 
-<img width="938" alt="Screen Shot 2025-03-22 at 7 46 56 PM" src="https://github.com/user-attachments/assets/5d0acbbb-1af6-4015-97a8-da2953ba3df2" />
+<img width="469" alt="Screen Shot 2025-03-22 at 7 46 56 PM" src="https://github.com/user-attachments/assets/5d0acbbb-1af6-4015-97a8-da2953ba3df2" />
 
 Photo credit: Coral Restoration Foundation
 
