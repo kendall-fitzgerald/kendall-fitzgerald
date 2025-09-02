@@ -5,7 +5,6 @@
 
 Photo credit: Coral Restoration Foundation
 
-- 🌱 I’m currently learning how to use generalized linear regression models to answer data-driven research questions. 
 - 🌎 I am interested in how the use of marine spatial data helps to inform policy decisions. 
 - 📫 How to reach me: [kendall.fitzgerald@duke.edu](mailto:kendall.fitzgerald@duke.edu)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/kendall--fitzgerald/)
