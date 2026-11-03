@@ -6,7 +6,7 @@
 Photo credit: Coral Restoration Foundation
 
 - 🌎 I am interested in how the use of marine spatial data helps to inform policy decisions. 
-- 📫 How to reach me: [kendall.fitzgerald@duke.edu](mailto:kendall.fitzgerald@duke.edu) or  kendall.fitzgerald25@gmail.com](mailto:kendall.fitzgerald25@gmail.com) 
+- 📫 How to reach me: [kendall.fitzgerald@duke.edu](mailto:kendall.fitzgerald@duke.edu) or  [kendall.fitzgerald25@gmail.com](mailto:kendall.fitzgerald25@gmail.com) 
 - 💼 [LinkedIn](https://www.linkedin.com/in/kendall--fitzgerald/)
 - 🌊  Pronouns: she/her
 
