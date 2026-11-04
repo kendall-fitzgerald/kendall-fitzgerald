@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <!-- Insert image here -->
+  <img src="Kendall_Coral.jpg" alt="Kendall diving at a coral nursery" width="600">
 </p>
 <p align="center"><sub>Photo credit: Coral Restoration Foundation</sub></p>
 
@@ -43,7 +43,8 @@
   <img src="https://img.shields.io/badge/Pix4Dmapper_|_Pix4Dmatic-E63946?style=for-the-badge" alt="Pix4Dmapper and Pix4Dmatic">
   <img src="https://img.shields.io/badge/DJI_Terra-444444?style=for-the-badge" alt="DJI Terra">
 </p>
-<sub>Platforms flown: DJI Matrice 350 · DJI Phantom · DJI Mavic · Parrot Anafi · WingtraOne Gen II</sub>
+
+**Platforms flown:** DJI Matrice 350 · DJI Phantom · DJI Mavic · Parrot Anafi · WingtraOne Gen II
 
 **Methods:** species distribution modeling · UAS mapping & digital twins · remote sensing · marine spatial planning (prioritizr) · habitat classification · cartography
 
