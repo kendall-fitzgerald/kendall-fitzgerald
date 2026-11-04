@@ -60,7 +60,7 @@
 | 🪸 **[Coral Reef Habitat Mapping](https://github.com/kendall-fitzgerald/coral-reef-habitat-mapping)** | Mapped reef habitat and geomorphic zones in the Dominican Republic using Allen Coral Atlas data | QGIS, Google Earth Engine |
 | 🌬️ **[Offshore Wind Conservation Planning](https://github.com/kendall-fitzgerald/mid-atlantic-wind-conservation-planning)** | Identified high-priority conservation areas that overlap offshore wind planning areas in the Mid-Atlantic Bight | ArcGIS Pro, R (prioritizr) |
 | 📖 **[Anthropogenic Noise & Whales in New England](https://storymaps.arcgis.com/stories/0337aad204034c5696709ed63e322750)** | StoryMap about the effects of anthropogenic noise on whales in New England | ArcGIS StoryMaps |
-| 📖 **[Exploratory Analysis of Satellite-Derived Chlorophyll-a Measurements in Nantucket Shoals & Georges Bank]([https://storymaps.arcgis.com/stories/0337aad204034c5696709ed63e322750](https://storymaps.arcgis.com/stories/68647244633e455c9caf561c4e7b0704)** | StoryMap that explores satellite-derived chlorophyll-a measurements during a period of high productivity| ArcGIS StoryMaps |
+| 📖 **[Exploratory Analysis of Satellite-Derived Chlorophyll-a Measurements in Nantucket Shoals & Georges Bank](https://storymaps.arcgis.com/stories/68647244633e455c9caf561c4e7b0704)** | StoryMap that explores satellite-derived chlorophyll-a measurements during a period of high productivity| ArcGIS StoryMaps |
 
 
 ---
