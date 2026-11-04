@@ -16,8 +16,11 @@
 - 🛰️ I'm interested in how **marine spatial data helps inform policy and management decisions**
 - 🚁 Currently building UAS-based digital twins, conducting habitat classifications and thermal analyses for coastal sites in North Carolina
 - 🪸 Background in hands-on **coral restoration and research**, from the Florida Keys to Hawaiʻi
-- 🎓 **Master of Environmental Management**, Duke University (Coastal & Marine Systems + Environmental Analytics & Modeling, Geospatial Analysis Certificate)
-- 🎓 **BA in Geography & Environmental Studies**, UCLA (Minor in Geospatial Systems & Technologies)
+- 🎓 **Master of Environmental Management**, Duke University 
+    - Concentrations: Coastal & Marine Systems + Environmental Analytics & Modeling
+    - Geospatial Analysis Certificate
+- 🎓 **BA in Geography & Environmental Studies**, UCLA 
+    - Minor in Geospatial Systems & Technologies
 
 ### 🛠️ Tools & Skills
 
