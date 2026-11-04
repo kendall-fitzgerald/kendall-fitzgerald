@@ -89,7 +89,7 @@
 ---
 
 ### 📄 Publications
-**Powell-Palm, M., Henley, E., Consiglio, A., Lager, C., Chang, B., Perry, R., Fitzgerald, K., Daly, J., Rubinsky, B., & Hagedorn, M.** (2023). Cryopreservation and revival of Hawaiian stony corals via isochoric vitrification. *Nature Communications*.
+**[Powell-Palm, M., Henley, E., Consiglio, A., Lager, C., Chang, B., Perry, R., Fitzgerald, K., Daly, J., Rubinsky, B., & Hagedorn, M.** (2023). Cryopreservation and revival of Hawaiian stony corals via isochoric vitrification. *Nature Communications*.](https://www.nature.com/articles/s41467-023-40500-w)
 
 ---
 
