@@ -49,7 +49,7 @@
 
 **Platforms flown:** DJI Matrice 350 · DJI Phantom · DJI Mavic · Parrot Anafi · WingtraOne Gen II
 
-**Methods:** species distribution modeling · UAS mapping & digital twins · remote sensing · marine spatial planning (prioritizr) · habitat classification · cartography
+**Methods:** UAS mapping & digital twins · remote sensing · marine spatial planning · habitat classification · cartography
 
 **In the field:** PADI Divemaster (500+ logged dives) · drone data collection · coral nursery maintenance & reef monitoring · small-boat operations
 
