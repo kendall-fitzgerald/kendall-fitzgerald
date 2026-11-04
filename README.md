@@ -18,7 +18,6 @@
 - 🪸 Background in hands-on **coral restoration and research**, from the Florida Keys to Hawaiʻi
 - 🎓 **Master of Environmental Management**, Duke University (Coastal & Marine Systems + Environmental Analytics & Modeling, Geospatial Analysis Certificate)
 - 🎓 **BA in Geography & Environmental Studies**, UCLA (Minor in Geospatial Systems & Technologies)
-- Pronouns: she/her
 
 ### 🛠️ Tools & Skills
 
@@ -29,6 +28,13 @@
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Google_Earth_Engine-34A853?style=for-the-badge" alt="Google Earth Engine">
+</p>
+
+**Web Mapping & Storytelling**
+<p>
+  <img src="https://img.shields.io/badge/ArcGIS_StoryMaps-1D4E89?style=for-the-badge" alt="ArcGIS StoryMaps">
+  <img src="https://img.shields.io/badge/ArcGIS_Experience_Builder-0079C1?style=for-the-badge" alt="ArcGIS Experience Builder">
+  <img src="https://img.shields.io/badge/ArcGIS_Online-2C7AC3?style=for-the-badge" alt="ArcGIS Online">
 </p>
 
 **Drones & Photogrammetry**
@@ -52,6 +58,9 @@
 | 🐟 **[Blue Rockfish Habitat Modeling](https://github.com/kendall-fitzgerald/rockfish-habitat)** | Modeled blue rockfish habitat in Carmel Bay, CA to evaluate which of two proposed MPAs offers more protection | ArcGIS Pro, R |
 | 🪸 **[Coral Reef Habitat Mapping](https://github.com/kendall-fitzgerald/coral-reef-habitat-mapping)** | Mapped reef habitat and geomorphic zones in the Dominican Republic using Allen Coral Atlas data | QGIS, Google Earth Engine |
 | 🌬️ **[Offshore Wind Conservation Planning](https://github.com/kendall-fitzgerald/mid-atlantic-wind-conservation-planning)** | Identified high-priority conservation areas that overlap offshore wind planning areas in the Mid-Atlantic Bight | ArcGIS Pro, R (prioritizr) |
+| 📖 **[Anthropogenic Noise & Whales in New England](https://storymaps.arcgis.com/stories/0337aad204034c5696709ed63e322750)** | StoryMap about the effects of anthropogenic noise on whales in New England | ArcGIS StoryMaps |
+| 📖 **[Exploratory Analysis of Satellite-Derived Chlorophyll-a Measurements in Nantucket Shoals & Georges Bank]([https://storymaps.arcgis.com/stories/0337aad204034c5696709ed63e322750](https://storymaps.arcgis.com/stories/68647244633e455c9caf561c4e7b0704))** | StoryMap that explores satellite-derived chlorophyll-a measurements during a period of high productivity| ArcGIS StoryMaps |
+
 
 ---
 
